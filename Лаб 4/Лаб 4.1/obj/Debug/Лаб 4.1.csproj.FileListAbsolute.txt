@@ -1,0 +1,58 @@
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+F:\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+F:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+F:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+E:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+E:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\mscorlib.dll
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\ru\mscorlib.resources.dll
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\normidna.nlp
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\normnfc.nlp
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\normnfd.nlp
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\normnfkc.nlp
+E:\Лаб 4.1\Лаб 4.1\bin\Debug\normnfkd.nlp
+E:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+E:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+E:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+E:\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.CoreCompileInputs.cache
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+E:\Для задротов\C#\лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.CoreCompileInputs.cache
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+E:\2_курс\3 семестр\БКИТ\Лабы\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.CoreCompileInputs.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\1\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4.Form1.resources

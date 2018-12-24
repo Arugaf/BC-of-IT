@@ -1,0 +1,13 @@
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб7\Лаб7\bin\Debug\Лаб7.exe.config
+C:\Users\Домашний\documents\visual studio 2015\Projects\Лаб7\Лаб7\bin\Debug\Лаб7.exe
+C:\Users\Домашний\documents\visual studio 2015\Projects\Лаб7\Лаб7\bin\Debug\Лаб7.pdb
+C:\Users\Домашний\documents\visual studio 2015\Projects\Лаб7\Лаб7\obj\Debug\Лаб7.csprojResolveAssemblyReference.cache
+C:\Users\Домашний\documents\visual studio 2015\Projects\Лаб7\Лаб7\obj\Debug\Лаб7.exe
+C:\Users\Домашний\documents\visual studio 2015\Projects\Лаб7\Лаб7\obj\Debug\Лаб7.pdb
+C:\Users\ACER\Downloads\Лаб7\Лаб7\Лаб7\bin\Debug\Лаб7.exe.config
+C:\Users\ACER\Downloads\Лаб7\Лаб7\Лаб7\bin\Debug\Лаб7.exe
+C:\Users\ACER\Downloads\Лаб7\Лаб7\Лаб7\bin\Debug\Лаб7.pdb
+C:\Users\ACER\Downloads\Лаб7\Лаб7\Лаб7\obj\Debug\Лаб7.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Downloads\Лаб7\Лаб7\Лаб7\obj\Debug\Лаб7.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Лаб7\Лаб7\Лаб7\obj\Debug\Лаб7.exe
+C:\Users\ACER\Downloads\Лаб7\Лаб7\Лаб7\obj\Debug\Лаб7.pdb

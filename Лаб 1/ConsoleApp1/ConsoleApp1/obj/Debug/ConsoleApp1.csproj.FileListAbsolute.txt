@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Новая папка\3 семестр\БКИТ\1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ACER\Documents\Новая папка\3 семестр\БКИТ\1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ACER\Documents\Новая папка\3 семестр\БКИТ\1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ACER\Documents\Новая папка\3 семестр\БКИТ\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Новая папка\3 семестр\БКИТ\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Новая папка\3 семестр\БКИТ\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ACER\Documents\Новая папка\3 семестр\БКИТ\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\Евдокимов\Лаб 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\доки\документы\Новая папка\3 семестр\БКИТ\Евдокимов\Лаб 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\Евдокимов\Лаб 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\Евдокимов\Лаб 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\Евдокимов\Лаб 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\Евдокимов\Лаб 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\Евдокимов\Лаб 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,40 @@
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 4.1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+C:\Users\Домашний\Documents\Visual Studio 2015\Projects\Лаб 5\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+F:\ДЗ1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+F:\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+F:\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+E:\ДЗ1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+E:\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+E:\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb
+E:\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+E:\ДЗ1\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+E:\ДЗ1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+E:\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+E:\ДЗ1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+E:\ДЗ1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\bin\Debug\Лаб 4.1.exe.config
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\bin\Debug\Лаб 4.1.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\bin\Debug\Лаб 4.1.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.csprojResolveAssemblyReference.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\obj\Debug\Лаб_4._1.Form1.resources
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\obj\Debug\Лаб_4._1.Properties.Resources.resources
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.GenerateResource.Cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.csproj.CoreCompileInputs.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\ДЗ1\ДЗ1\Лаб 4.1\obj\Debug\Лаб 4.1.pdb

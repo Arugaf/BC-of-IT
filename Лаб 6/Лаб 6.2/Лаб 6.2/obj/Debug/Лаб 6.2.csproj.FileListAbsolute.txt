@@ -1,0 +1,16 @@
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 6.2\Лаб 6.2\bin\Debug\Лаб 6.2.exe.config
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 6.2\Лаб 6.2\bin\Debug\Лаб 6.2.exe
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 6.2\Лаб 6.2\bin\Debug\Лаб 6.2.pdb
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.csprojResolveAssemblyReference.cache
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.exe
+c:\users\домашний\documents\visual studio 2015\Projects\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.pdb
+C:\Users\Rauger\Desktop\Лаб 6.2\Лаб 6.2\bin\Debug\Лаб 6.2.exe.config
+C:\Users\Rauger\Desktop\Лаб 6.2\Лаб 6.2\bin\Debug\Лаб 6.2.exe
+C:\Users\Rauger\Desktop\Лаб 6.2\Лаб 6.2\bin\Debug\Лаб 6.2.pdb
+C:\Users\Rauger\Desktop\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.csprojAssemblyReference.cache
+C:\Users\Rauger\Desktop\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.csproj.CoreCompileInputs.cache
+C:\Users\Rauger\Desktop\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.exe
+C:\Users\Rauger\Desktop\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.pdb
+E:\БКИТ\Лаб 6.2\Лаб 6.2\bin\Debug\Лаб 6.2.exe.config
+E:\БКИТ\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.exe
+E:\БКИТ\Лаб 6.2\Лаб 6.2\obj\Debug\Лаб 6.2.pdb

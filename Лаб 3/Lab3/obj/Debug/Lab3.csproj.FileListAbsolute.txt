@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Andrey\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Andrey\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Andrey\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Andrey\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Andrey\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\доки\документы\Новая папка\3 семестр\БКИТ\3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\доки\документы\Новая папка\3 семестр\БКИТ\3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\доки\документы\Новая папка\3 семестр\БКИТ\3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\доки\документы\Новая папка\3 семестр\БКИТ\3\Lab3\Lab3\obj\Debug\Lab3.pdb
